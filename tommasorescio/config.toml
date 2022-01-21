@@ -1,4 +1,4 @@
-baseURL = 'http://tommasorescio.github.io/'
+baseURL = 'https://tommasorescio.github.io/'
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
