@@ -1,0 +1,4 @@
+[submodule "tommasorescio/public"]
+	path = tommasorescio/public
+	url = git@github.com:tommasorescio/tommasorescio.github.io.git
+	branch = main

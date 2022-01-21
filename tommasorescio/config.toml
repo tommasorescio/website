@@ -1,0 +1,94 @@
+baseURL = 'http://tommasorescio.com/'
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Tommaso Rescio"
+title = "Tommaso Rescio"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Tommaso Rescio"
+intro = "Cloud Network Engineer"
+description = "BSc Computer Science, Università Degli Studi di Firenze, MSc Network Engineering, Politecnico di Torino."
+authorimage = "image_profile.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Tommaso Rescio website"
+keywords = "tommasorescio,rescio,tommaso rescio,network,engineer,cloud"
+
+## Social Accounts
+[params.social]
+#github = "tommasorescio"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "tommasorescio"
+#twitter = "<username>"
+#facebook = "<username>"
+#google = "<username>"
+googlescholar = "VTVB988AAAAJ"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<channelid>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+email = "tommasorescio@gmail.com"
+#pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2020. Tommaso Rescio."
+poweredby = false
+highlightjs = false
+socialmarkup = false
+toc = false
+displayrssicon = false
+
+## Main Menu
+#[[menu.main]]
+#    name = "blog"
+#    weight = 100
+#    identifier = "blog"
+#    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+#[[menu.main]]
+#    name = "coderag"
+#    identifier = "coderag"
+#    weight = 300
+#    url = "/coderag/"
