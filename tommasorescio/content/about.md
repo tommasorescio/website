@@ -3,5 +3,9 @@ title: "About"
 #date: 2022-01-03T16:41:03+01:00
 draft: false
 ---
+Hi!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Welcome to my personal page!
+
+I'm **Tommaso Rescio**, I was born and raised in a little town near Florence, in Italy.
+I'm a proactive and enthusiastic Computer Scientist with a Master's degree focused in **Network Engineering** from **Politecnico di Torino**. I'm passionate about Cloud Computing and DevOps technologies.
