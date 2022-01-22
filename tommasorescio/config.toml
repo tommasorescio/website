@@ -1,7 +1,7 @@
 baseURL = 'https://tommasorescio.com/'
 builddrafts = false
 canonifyurls = false
-languageCode = "en-US"
+languageCode = "it-IT"
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -27,7 +27,7 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Tommaso Rescio website"
+description = "Network Engineer"
 keywords = "tommasorescio,rescio,tommaso rescio,network,engineer,cloud"
 
 ## Social Accounts
