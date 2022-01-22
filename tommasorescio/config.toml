@@ -69,7 +69,7 @@ email = "tommasorescio@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2020. Tommaso Rescio."
+copyright = "© 2021. Tommaso Rescio."
 poweredby = false
 highlightjs = false
 socialmarkup = false
