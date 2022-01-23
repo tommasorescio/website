@@ -32,7 +32,7 @@ keywords = "tommasorescio,rescio,tommaso rescio,network,engineer,cloud"
 
 ## Social Accounts
 [params.social]
-#github = "tommasorescio"
+github = "tommasorescio"
 #instagram = "<username>"
 #xing = "<username>"
 linkedin = "tommasorescio"
