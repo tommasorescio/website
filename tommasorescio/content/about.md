@@ -5,4 +5,4 @@ draft: false
 ---
 I am a proactive and enthusiastic Computer Scientist with a Master's degree focused in **Network Engineering** from **Politecnico di Torino**.
 
-I'm passionate about Cloud Computing and DevOps technologies.
+I am passionate about Cloud Computing and DevOps technologies.
