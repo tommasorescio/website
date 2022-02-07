@@ -82,11 +82,11 @@ displayrssicon = false
 #    weight = 100
 #    identifier = "blog"
 #    url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
+#[[menu.main]]
+#    name = "about"
+#    identifier = "about"
+#    weight = 200
+#    url = "/about/"
 #[[menu.main]]
 #    name = "coderag"
 #    identifier = "coderag"
